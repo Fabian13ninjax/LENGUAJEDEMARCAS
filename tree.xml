@@ -1,0 +1,8 @@
+<mensaje> 
+<remite nombre="juan" email="juan@gmail.es"/>
+<Destinatario nombre="pepe" email="pepe@gmail.es"/>
+<asunto>felicitacion</asunto>
+<parrafo>Felicidades por tu ascenso</parrafo>
+<parrafo>un saludo</parrafo>
+<!--Comentario-->
+</mensaje>
